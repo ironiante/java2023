@@ -1,3 +1,5 @@
+package tiposDatosPrimitivos;
+
 public class OperadoresAritmeticos {
     /**
      * Operadores aritméticos:

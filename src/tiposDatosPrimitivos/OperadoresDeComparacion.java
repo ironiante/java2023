@@ -1,3 +1,5 @@
+package tiposDatosPrimitivos;
+
 public class OperadoresDeComparacion {
     public static void main(String[] args) {
         int a = 5;
